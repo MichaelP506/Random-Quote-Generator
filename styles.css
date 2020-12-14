@@ -1,0 +1,26 @@
+.generator {
+    background-color: #2DD7C1  ;
+  width: 300px;
+  border: 5px solid orange;
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+            }
+
+body {
+    background-color: #1C8E7F;
+}
+
+h1 {
+    color: black;
+    font-family: 'Merriweather', serif;
+}
+
+.show {
+    padding: 20px;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.button {
+    font-family: 'PT Serif', serif;
+}
